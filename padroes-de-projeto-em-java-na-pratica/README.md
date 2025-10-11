@@ -5,7 +5,7 @@ Conteudo do curso
 
 ##Introdução
 
-[]- Introdução
+[x]- Introdução
 []- Visão Geral do Curso
 []- Boas Práticas do Fórum
 []- Recursos Disponibilizados no Curso
