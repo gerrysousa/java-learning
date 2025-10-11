@@ -12,9 +12,9 @@ Conteudo do curso
 [x]- O que é Padrão de Projeto?
 [x]- Sugestão de Livros
 [x]- Entendendo os Diagramas
-[]- Usando o terminal
-[]- Terminais
-[]- Aviso importante aos usuários de Windows
+[x]- Usando o terminal
+[x]- Terminais
+[x]- Aviso importante aos usuários de Windows
 
 
 ##Padrões de Projeto Criacionais
