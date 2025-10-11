@@ -7,7 +7,7 @@ Conteudo do curso
 
 [x]- Introdução
 [x]- Visão Geral do Curso
-[]- Boas Práticas do Fórum
+[x]- Boas Práticas do Fórum
 []- Recursos Disponibilizados no Curso
 []- O que é Padrão de Projeto?
 []- Sugestão de Livros
