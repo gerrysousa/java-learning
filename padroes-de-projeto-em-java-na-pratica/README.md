@@ -11,7 +11,7 @@ Conteudo do curso
 [x]- Recursos Disponibilizados no Curso
 [x]- O que é Padrão de Projeto?
 [x]- Sugestão de Livros
-[]- Entendendo os Diagramas
+[x]- Entendendo os Diagramas
 []- Usando o terminal
 []- Terminais
 []- Aviso importante aos usuários de Windows
