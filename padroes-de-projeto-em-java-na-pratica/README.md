@@ -18,8 +18,8 @@ Conteudo do curso
 
 
 ##Padrões de Projeto Criacionais
-[]- Introdução do Módulo
-[]- Projetos do Módulo
+[x]- Introdução do Módulo
+[x]- Projetos do Módulo
 []- Factory Method #01
 []- Factory Method #02
 []- Factory Method #03
