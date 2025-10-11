@@ -6,7 +6,7 @@ Conteudo do curso
 ##Introdução
 
 [x]- Introdução
-[]- Visão Geral do Curso
+[x]- Visão Geral do Curso
 []- Boas Práticas do Fórum
 []- Recursos Disponibilizados no Curso
 []- O que é Padrão de Projeto?
