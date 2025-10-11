@@ -8,8 +8,8 @@ Conteudo do curso
 [x]- Introdução
 [x]- Visão Geral do Curso
 [x]- Boas Práticas do Fórum
-[]- Recursos Disponibilizados no Curso
-[]- O que é Padrão de Projeto?
+[x]- Recursos Disponibilizados no Curso
+[x]- O que é Padrão de Projeto?
 []- Sugestão de Livros
 []- Entendendo os Diagramas
 []- Usando o terminal
