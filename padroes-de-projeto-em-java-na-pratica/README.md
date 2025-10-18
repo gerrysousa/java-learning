@@ -53,31 +53,31 @@ Conteudo do curso
 
 
 ##Padrões de Projeto Estruturais
-[ ] 43 - Introdução do Módulo
-[ ] 44 - Projetos do Módulo
-[ ] 45 - Adapter #01
-[ ] 46 - Adapter #02
-[ ] 47 - Adapter #03
-[ ] 48 - Bridge #01
-[ ] 49 - Bridge #02
-[ ] 50 - Bridge #03
-[ ] 51 - Bridge #04
-[ ] 52 - Composite #01
-[ ] 53 - Composite #02
-[ ] 54 - Composite #03
-[ ] 55 - Decorator #01
-[ ] 56 - Decorator #02
-[ ] 57 - Decorator #03
-[ ] 58 - Facade #01
-[ ] 59 - Facade #02
-[ ] 60 - Facade #03
-[ ] 61 - Facade #04
-[ ] 62 - Flyweight #01
-[ ] 63 - Flyweight #02
-[ ] 64 - Flyweight #03
-[ ] 65 - Proxy #01
-[ ] 66 - Proxy #02
-[ ] 67 - Proxy #03
+[x] 43 - Introdução do Módulo
+[x] 44 - Projetos do Módulo
+[x] 45 - Adapter #01
+[x] 46 - Adapter #02
+[x] 47 - Adapter #03
+[x] 48 - Bridge #01
+[x] 49 - Bridge #02
+[x] 50 - Bridge #03
+[x] 51 - Bridge #04
+[x] 52 - Composite #01
+[x] 53 - Composite #02
+[x] 54 - Composite #03
+[x] 55 - Decorator #01
+[x] 56 - Decorator #02
+[x] 57 - Decorator #03
+[x] 58 - Facade #01
+[x] 59 - Facade #02
+[x] 60 - Facade #03
+[x] 61 - Facade #04
+[x] 62 - Flyweight #01
+[x] 63 - Flyweight #02
+[x] 64 - Flyweight #03
+[x] 65 - Proxy #01
+[x] 66 - Proxy #02
+[x] 67 - Proxy #03
 
 
 ##Padrões de Projeto Comportamentais
