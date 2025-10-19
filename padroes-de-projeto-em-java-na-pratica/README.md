@@ -81,35 +81,35 @@ Conteudo do curso
 
 
 ##Padrões de Projeto Comportamentais
-[ ] 68 - Introdução do Módulo
-[ ] 69 - Projetos do Módulo
-[ ] 70 - Chain of Responsability #01
-[ ] 71 - Chain of Responsability #02
-[ ] 72 - Chain of Responsability #03
-[ ] 73 - Memento #01
-[ ] 74 - Memento #02
-[ ] 75 - Command #01
-[ ] 76 - Command #02
-[ ] 77 - Command #03
-[ ] 78 - Iterator #01
-[ ] 79 - Iterator #02
-[ ] 80 - Iterator #03
-[ ] 81 - Mediator #01
-[ ] 82 - Mediator #02
-[ ] 83 - Mediator #03
-[ ] 84 - Observer (Youtube)
-[ ] 85 - Observer #01
-[ ] 86 - Observer #02
-[ ] 87 - Observer #03
-[ ] 88 - State #01
-[ ] 89 - State #02
-[ ] 90 - State #03
-[ ] 91 - Strategy #01
-[ ] 92 - Strategy #02
-[ ] 93 - Strategy #03
-[ ] 94 - Template Method #01
-[ ] 95 - Template Method #02
-[ ] 96 - Template Method #03 
+[x] 68 - Introdução do Módulo
+[X] 69 - Projetos do Módulo
+[x] 70 - Chain of Responsability #01
+[x] 71 - Chain of Responsability #02
+[x] 72 - Chain of Responsability #03
+[x] 73 - Memento #01
+[x] 74 - Memento #02
+[x] 75 - Command #01
+[x] 76 - Command #02
+[x] 77 - Command #03
+[x] 78 - Iterator #01
+[x] 79 - Iterator #02
+[x] 80 - Iterator #03
+[x] 81 - Mediator #01
+[x] 82 - Mediator #02
+[x] 83 - Mediator #03
+[x] 84 - Observer (Youtube)
+[x] 85 - Observer #01
+[x] 86 - Observer #02
+[x] 87 - Observer #03
+[x] 88 - State #01
+[x] 89 - State #02
+[x] 90 - State #03
+[x] 91 - Strategy #01
+[x] 92 - Strategy #02
+[x] 93 - Strategy #03
+[x] 94 - Template Method #01
+[x] 95 - Template Method #02
+[x] 96 - Template Method #03 
 
 ###Conclusão do Curso
 [ ] 97 - Conclusão
