@@ -10,7 +10,7 @@ public class BlackFriday extends BestOfferTemplate {
 
 	@Override
 	public boolean isAppliable() {
-		return true;  //FIXME we should use calendar to be dinamic
+		return true;
 	}
 
 	@Override
