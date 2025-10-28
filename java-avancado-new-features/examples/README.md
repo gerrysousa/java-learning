@@ -43,8 +43,8 @@ Section 3: JAVA 9 - NEW FEATURES
 * [x] 18. Try-Catch com recursos
 * [x] 19. Inferência de tipos em classes internas anônimas
 * [x] 20. Factory Method de coleções
-* [ ] 21. JShell
-* [ ] 22. Melhorias na API Stream
+* [x] 21. JShell
+* [x] 22. Melhorias na API Stream
 * [ ] 23. HTTP/2
 
 Section 4: JAVA 10 - NEW FEATURES 
