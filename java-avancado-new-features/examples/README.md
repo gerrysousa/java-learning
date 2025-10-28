@@ -37,10 +37,10 @@ Section 2: JAVA 8 - NEW FEATURES
 Section 3: JAVA 9 - NEW FEATURES 
 * [x] 15. Apresentando Java 9
 * [x] 16. Sistema de Módulos (Projeto Jigsaw)
-* [ ] Quiz 13: Teste - Sistema de Módulos
-* [ ] 17. Interface com métodos privados
-* [ ] Quiz 14: Teste - Interface com métodos privados
-* [ ] 18. Try-Catch com recursos
+* [x] Quiz 13: Teste - Sistema de Módulos
+* [x] 17. Interface com métodos privados
+* [x] Quiz 14: Teste - Interface com métodos privados
+* [x] 18. Try-Catch com recursos
 * [ ] 19. Inferência de tipos em classes internas anônimas
 * [ ] 20. Factory Method de coleções
 * [ ] 21. JShell
