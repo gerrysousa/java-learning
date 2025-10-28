@@ -45,7 +45,7 @@ Section 3: JAVA 9 - NEW FEATURES
 * [x] 20. Factory Method de coleções
 * [x] 21. JShell
 * [x] 22. Melhorias na API Stream
-* [ ] 23. HTTP/2
+* [x] 23. HTTP/2
 
 Section 4: JAVA 10 - NEW FEATURES 
 * [ ] 24. Apresentando Java 10
