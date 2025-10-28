@@ -42,7 +42,7 @@ Section 3: JAVA 9 - NEW FEATURES
 * [x] Quiz 14: Teste - Interface com métodos privados
 * [x] 18. Try-Catch com recursos
 * [x] 19. Inferência de tipos em classes internas anônimas
-* [ ] 20. Factory Method de coleções
+* [x] 20. Factory Method de coleções
 * [ ] 21. JShell
 * [ ] 22. Melhorias na API Stream
 * [ ] 23. HTTP/2
