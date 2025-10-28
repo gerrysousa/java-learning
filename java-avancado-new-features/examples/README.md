@@ -10,29 +10,29 @@ Section 1: INTRODUÇÃO
 Section 2: JAVA 8 - NEW FEATURES 
 * [x] 02. Lambda expressions
 * [x] Quiz 1: Teste - Lambda expressions
-* [ ] 03. Method references
-* [ ] Quiz 2: Teste - Method references
-* [ ] 04. Functional Interfaces
-* [ ] Quiz 3: Teste - Functional Interfaces
-* [ ] 05. Pacote Stream
-* [ ] Quiz 4: Teste - Pacote Stream
-* [ ] 06. Base64
-* [ ] Quiz 5: Teste - Base64
-* [ ] 07. StringJoiner
-* [ ] Quiz 6: Teste - StringJoiner
-* [ ] 08. Optional
-* [ ] Quiz 7: Teste - Optional
-* [ ] 09. JavaScript Nashorn
-* [ ] Quiz 8: Teste - JavaScript Nashorn
-* [ ] 10. Parallel Array Sorting
-* [ ] Quiz 9: Teste - Parallel Array Sorting
-* [ ] 11. Inferência de tipos
-* [ ] Quiz 10: Teste - Inferência de tipos
-* [ ] 12. Reflexão de métodos e parâmetros
-* [ ] Quiz 11: Teste - Reflexão de métodos e parâmetros
-* [ ] 13. Novas anotações (annotations)
-* [ ] Quiz 12: Teste - Annotations
-* [ ] 14. JDBC
+* [x] 03. Method references
+* [x] Quiz 2: Teste - Method references
+* [x] 04. Functional Interfaces
+* [x] Quiz 3: Teste - Functional Interfaces
+* [x] 05. Pacote Stream
+* [x] Quiz 4: Teste - Pacote Stream
+* [x] 06. Base64
+* [x] Quiz 5: Teste - Base64
+* [x] 07. StringJoiner
+* [x] Quiz 6: Teste - StringJoiner
+* [x] 08. Optional
+* [x] Quiz 7: Teste - Optional
+* [x] 09. JavaScript Nashorn
+* [x] Quiz 8: Teste - JavaScript Nashorn
+* [x] 10. Parallel Array Sorting
+* [x] Quiz 9: Teste - Parallel Array Sorting
+* [x] 11. Inferência de tipos
+* [x] Quiz 10: Teste - Inferência de tipos
+* [x] 12. Reflexão de métodos e parâmetros
+* [x] Quiz 11: Teste - Reflexão de métodos e parâmetros
+* [x] 13. Novas anotações (annotations)
+* [x] Quiz 12: Teste - Annotations
+* [x] 14. JDBC
 
 Section 3: JAVA 9 - NEW FEATURES 
 * [ ] 15. Apresentando Java 9
