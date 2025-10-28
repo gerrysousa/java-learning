@@ -35,8 +35,8 @@ Section 2: JAVA 8 - NEW FEATURES
 * [x] 14. JDBC
 
 Section 3: JAVA 9 - NEW FEATURES 
-* [ ] 15. Apresentando Java 9
-* [ ] 16. Sistema de Módulos (Projeto Jigsaw)
+* [x] 15. Apresentando Java 9
+* [x] 16. Sistema de Módulos (Projeto Jigsaw)
 * [ ] Quiz 13: Teste - Sistema de Módulos
 * [ ] 17. Interface com métodos privados
 * [ ] Quiz 14: Teste - Interface com métodos privados
