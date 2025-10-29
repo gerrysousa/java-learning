@@ -58,8 +58,8 @@ Section 5: JAVA 11 - NEW FEATURES
 * [x] 29. Apresentando Java 11
 * [x] 30. Assinatura do Oracle JDK 11
 * [x] 31. Novos métodos da classe String
-* [ ] 32. Var em parâmetros lambda
-* [ ] 33. Métodos readString() e writeString() da classe Files
+* [x] 32. Var em parâmetros lambda
+* [x] 33. Métodos readString() e writeString() da classe Files
 
 Section 6: JAVA 12 - NEW FEATURES 
 * [ ] 34. Apresentando Java 12
