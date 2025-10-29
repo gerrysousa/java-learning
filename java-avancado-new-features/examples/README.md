@@ -66,8 +66,8 @@ Section 6: JAVA 12 - NEW FEATURES
 * [x] 35. Switch Expressions
 * [x] 36. Classe Files – método mismatch
 * [x] 37. Classe CompactNumberFormat
-* [ ] 38. Teeing Collector
-* [ ] 39. Novos métodos do Java String
+* [x] 38. Teeing Collector
+* [x] 39. Novos métodos do Java String
 
 Section 6: JAVA 13 - NEW FEATURES 
 * [ ] 40. Apresentando Java 13
