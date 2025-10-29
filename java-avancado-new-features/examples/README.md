@@ -48,8 +48,8 @@ Section 3: JAVA 9 - NEW FEATURES
 * [x] 23. HTTP/2
 
 Section 4: JAVA 10 - NEW FEATURES 
-* [ ] 24. Apresentando Java 10
-* [ ] 25. Inferência de tipos em variáveis locais
+* [x] 24. Apresentando Java 10
+* [x] 25. Inferência de tipos em variáveis locais
 * [ ] 26. Mudanças no Garbage-Collector
 * [ ] 27. Versionamento com base em data
 * [ ] 28. Alocação de memória alternativa
