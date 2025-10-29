@@ -28,7 +28,7 @@ Section 2: JAVA 8 - NEW FEATURES
 * [x] Quiz 9: Teste - Parallel Array Sorting
 * [x] 11. Inferência de tipos
 * [x] Quiz 10: Teste - Inferência de tipos
-* [x] 12. Reflexão de métodos e parâmetros
+* [x] 12. Reflexão de métodos e parâmetrosg
 * [x] Quiz 11: Teste - Reflexão de métodos e parâmetros
 * [x] 13. Novas anotações (annotations)
 * [x] Quiz 12: Teste - Annotations
@@ -50,9 +50,9 @@ Section 3: JAVA 9 - NEW FEATURES
 Section 4: JAVA 10 - NEW FEATURES 
 * [x] 24. Apresentando Java 10
 * [x] 25. Inferência de tipos em variáveis locais
-* [ ] 26. Mudanças no Garbage-Collector
-* [ ] 27. Versionamento com base em data
-* [ ] 28. Alocação de memória alternativa
+* [x] 26. Mudanças no Garbage-Collector
+* [x] 27. Versionamento com base em data
+* [x] 28. Alocação de memória alternativa
 
 Section 5: JAVA 11 - NEW FEATURES 
 * [ ] 29. Apresentando Java 11
