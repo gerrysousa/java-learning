@@ -55,9 +55,9 @@ Section 4: JAVA 10 - NEW FEATURES
 * [x] 28. Alocação de memória alternativa
 
 Section 5: JAVA 11 - NEW FEATURES 
-* [ ] 29. Apresentando Java 11
-* [ ] 30. Assinatura do Oracle JDK 11
-* [ ] 31. Novos métodos da classe String
+* [x] 29. Apresentando Java 11
+* [x] 30. Assinatura do Oracle JDK 11
+* [x] 31. Novos métodos da classe String
 * [ ] 32. Var em parâmetros lambda
 * [ ] 33. Métodos readString() e writeString() da classe Files
 
