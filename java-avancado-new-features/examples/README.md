@@ -64,7 +64,7 @@ Section 5: JAVA 11 - NEW FEATURES
 Section 6: JAVA 12 - NEW FEATURES 
 * [x] 34. Apresentando Java 12
 * [x] 35. Switch Expressions
-* [ ] 36. Classe Files – método mismatch
+* [x] 36. Classe Files – método mismatch
 * [ ] 37. Classe CompactNumberFormat
 * [ ] 38. Teeing Collector
 * [ ] 39. Novos métodos do Java String
