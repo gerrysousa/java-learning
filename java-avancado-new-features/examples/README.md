@@ -70,11 +70,11 @@ Section 6: JAVA 12 - NEW FEATURES
 * [x] 39. Novos métodos do Java String
 
 Section 6: JAVA 13 - NEW FEATURES 
-* [ ] 40. Apresentando Java 13
-* [ ] 41. Text Blocks
-* [ ] 42. Switch Expressions - yield
-* [ ] 43. Nova implementação Socket API
-* [ ] 44. Z Garbage Collector
+* [x] 40. Apresentando Java 13
+* [x] 41. Text Blocks
+* [x] 42. Switch Expressions - yield
+* [x] 43. Nova implementação Socket API
+* [x] 44. Z Garbage Collector
 
 Section 8: JAVA 14 - NEW FEATURES 
 * [ ] 45. Apresentando Java 14
