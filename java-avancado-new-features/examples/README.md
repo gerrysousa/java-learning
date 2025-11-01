@@ -84,10 +84,10 @@ Section 8: JAVA 14 - NEW FEATURES
 * [x] 49. Records
 
 Section 9: JAVA 15 - NEW FEATURES 
-* [ ] 50. Text Blocks (Standard)
-* [ ] 51. Classes Ocultas
-* [ ] 52. Classes Seladas e Pattern Matching for instanceof (continuação)
-* [ ] 53. Records (continuação)
+* [x] 50. Text Blocks (Standard)
+* [x] 51. Classes Ocultas
+* [x] 52. Classes Seladas e Pattern Matching for instanceof (continuação)
+* [x] 53. Records (continuação)
 
 Section 10: JAVA 16 - NEW FEATURES 
 * [ ] 54. Apresentando Java 16
