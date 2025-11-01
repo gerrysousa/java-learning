@@ -111,17 +111,17 @@ Section 12: JAVA 18 - NEW FEATURES
 * [x] 68. Resolução de Endereços de Internet SPI
 
 Section 13: JAVA 19 - NEW FEATURES 
-* [ ] 69. Apresentando Java 19
-* [ ] 70. Record Patterns
-* [ ] 71. Alterações na criação de HashMap e HashSet pré-alocados
-* [ ] 72. Interface de Função Estrangeira e Memory API (preview)
-* [ ] 73. Suporte Unicode 14.0
-* [ ] 74. Virtual Threads
+* [x] 69. Apresentando Java 19
+* [x] 70. Record Patterns
+* [x] 71. Alterações na criação de HashMap e HashSet pré-alocados
+* [x] 72. Interface de Função Estrangeira e Memory API (preview)
+* [x] 73. Suporte Unicode 14.0
+* [x] 74. Virtual Threads
 
 Section 14: JAVA 20 - NEW FEATURES 
-* [ ] 75. Apresentando Java 20
-* [ ] 76. Valores com Escopo
-* [ ] 77. Concorrência Estruturada
+* [x] 75. Apresentando Java 20
+* [x] 76. Valores com Escopo
+* [x] 77. Concorrência Estruturada
 
 Section 15: JAVA 21 - NEW FEATURES 
 * [ ] 78. Apresentando Java 21
