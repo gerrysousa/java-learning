@@ -131,9 +131,9 @@ Section 15: JAVA 21 - NEW FEATURES
 * [x] 82. Padrões e Variáveis sem nome
 
 Section 16: JAVA 22 - NEW FEATURES 
-* [ ] 83. Apresentando Java 22
-* [ ] 84. Declarações antes de super( );
-* [ ] 85. Coletores de Fluxo (Stream Gatherers)
-* [ ] 86. Class-File API
+* [x] 83. Apresentando Java 22
+* [x] 84. Declarações antes de super( );
+* [x] 85. Coletores de Fluxo (Stream Gatherers)
+* [x] 86. Class-File API
 
 
