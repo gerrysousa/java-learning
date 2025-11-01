@@ -104,11 +104,11 @@ Section 11: JAVA 17 - NEW FEATURES
 * [x] 63. Interface de Função Estrangeira (FFI)
 
 Section 12: JAVA 18 - NEW FEATURES 
-* [ ] 64. Apresentando Java 18
-* [ ] 65. UTF-8 por padrão
-* [ ] 66. Simple Web Server
-* [ ] 67. Code Snippets na documentação da API
-* [ ] 68. Resolução de Endereços de Internet SPI
+* [x] 64. Apresentando Java 18
+* [x] 65. UTF-8 por padrão
+* [x] 66. Simple Web Server
+* [x] 67. Code Snippets na documentação da API
+* [x] 68. Resolução de Endereços de Internet SPI
 
 Section 13: JAVA 19 - NEW FEATURES 
 * [ ] 69. Apresentando Java 19
