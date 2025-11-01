@@ -98,10 +98,10 @@ Section 10: JAVA 16 - NEW FEATURES
 * [x] 59. Roadmap
 
 Section 11: JAVA 17 - NEW FEATURES 
-* [ ] 60. Apresentando Java 17
-* [ ] 61. Mensagem mais clara para NullPointerException
-* [ ] 62. Correspondência de Padrões para Switch Expressions
-* [ ] 63. Interface de Função Estrangeira (FFI)
+* [x] 60. Apresentando Java 17
+* [x] 61. Mensagem mais clara para NullPointerException
+* [x] 62. Correspondência de Padrões para Switch Expressions
+* [x] 63. Interface de Função Estrangeira (FFI)
 
 Section 12: JAVA 18 - NEW FEATURES 
 * [ ] 64. Apresentando Java 18
