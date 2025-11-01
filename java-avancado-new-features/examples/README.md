@@ -90,12 +90,12 @@ Section 9: JAVA 15 - NEW FEATURES
 * [x] 53. Records (continuação)
 
 Section 10: JAVA 16 - NEW FEATURES 
-* [ ] 54. Apresentando Java 16
-* [ ] 55. Classes Seladas (2nd preview)
-* [ ] 56. Classes Baseadas em Valor
-* [ ] 57. Packaging Tool
-* [ ] 58. Recursos da Linguagem C++14
-* [ ] 59. Roadmap
+* [x] 54. Apresentando Java 16
+* [x] 55. Classes Seladas (2nd preview)
+* [x] 56. Classes Baseadas em Valor
+* [x] 57. Packaging Tool
+* [x] 58. Recursos da Linguagem C++14
+* [x] 59. Roadmap
 
 Section 11: JAVA 17 - NEW FEATURES 
 * [ ] 60. Apresentando Java 17
