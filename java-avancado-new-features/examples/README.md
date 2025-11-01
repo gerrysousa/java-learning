@@ -77,11 +77,11 @@ Section 6: JAVA 13 - NEW FEATURES
 * [x] 44. Z Garbage Collector
 
 Section 8: JAVA 14 - NEW FEATURES 
-* [ ] 45. Apresentando Java 14
-* [ ] 46. Text Blocks
-* [ ] 47. NullPointerExceptions
-* [ ] 48. Pattern Matching for instanceof
-* [ ] 49. Records
+* [x] 45. Apresentando Java 14
+* [x] 46. Text Blocks
+* [x] 47. NullPointerExceptions
+* [x] 48. Pattern Matching for instanceof
+* [x] 49. Records
 
 Section 9: JAVA 15 - NEW FEATURES 
 * [ ] 50. Text Blocks (Standard)
