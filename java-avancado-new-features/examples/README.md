@@ -124,11 +124,11 @@ Section 14: JAVA 20 - NEW FEATURES
 * [x] 77. Concorrência Estruturada
 
 Section 15: JAVA 21 - NEW FEATURES 
-* [ ] 78. Apresentando Java 21
-* [ ] 79. String Templates
-* [ ] 80. Sequenced Collections
-* [ ] 81. Classes sem nome e Método main de instância
-* [ ] 82. Padrões e Variáveis sem nome
+* [x] 78. Apresentando Java 21
+* [x] 79. String Templates
+* [x] 80. Sequenced Collections
+* [x] 81. Classes sem nome e Método main de instância
+* [x] 82. Padrões e Variáveis sem nome
 
 Section 16: JAVA 22 - NEW FEATURES 
 * [ ] 83. Apresentando Java 22
